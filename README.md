@@ -7,3 +7,7 @@ A rotating platform which senses the direction of the brightest light source and
 **Technologies** 
 - Arduino
 - C++
+
+**Photo of Development Process**
+
+![solar_panel](https://user-images.githubusercontent.com/41240707/127677076-22cbcab9-9b8a-4463-be39-ad273c43bea9.jpeg)
